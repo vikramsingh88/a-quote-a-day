@@ -1,0 +1,14 @@
+{
+  "name": "a-quote-a-day",
+  "version": "1.0.0",
+  "description": "first assignment node application",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "author": "Vikram",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.1"
+  }
+}
